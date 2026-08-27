@@ -1,76 +1,81 @@
 # Alexis Alvarez Ruiz — QA Engineer Jr. Portfolio
 
-## Overview
+**Junior QA Engineer | Software Testing | Manual Testing | API Testing**
 
-I am a professional in Administration transitioning into Software Quality Assurance, with practical training in QA through TripleTen. My background in administration strengthens my analytical thinking, process orientation, documentation and attention to detail.
+[View my Portfolio](Documentation/PORTFOLIO.md) · [LinkedIn](https://www.linkedin.com/in/alexis-alvarez-ruiz-14384a229/) · [GitHub Profile](https://github.com/alexisalvarez-qa)
 
-I am currently focused on opportunities as **Junior QA Engineer, QA Analyst Jr. and Software Tester Jr.**
+## 👋 Overview
 
-My portfolio demonstrates how I approach software testing: understanding the expected behavior, designing test scenarios, validating results, documenting defects and communicating risks clearly.
+I am a professional in Administration transitioning into Software Quality Assurance, with practical QA training through TripleTen.
 
-## Core Skills
+My previous professional background in administration has strengthened my analytical thinking, organization, documentation, process orientation and attention to detail. I am now applying these transferable skills to software testing and quality assurance.
 
-- Manual Testing
+I am currently preparing for opportunities as a **Junior QA Engineer, QA Analyst Jr. or Software Tester Jr.**
+
+## 🎯 Professional Focus
+
+- Manual Software Testing
 - Functional Testing
-- Regression Testing
-- Smoke Testing
 - Test Case Design
-- Checklists
 - Bug Reporting
 - API Testing
-- Postman
-- REST APIs
-- JSON Validation
-- HTTP Status Codes
-- Chrome DevTools
-- Jira
+- Test Documentation
 - SQL fundamentals
 - Python fundamentals
-- Selenium fundamentals
-- Agile/Scrum
+- Test Automation fundamentals
 
-## Featured Projects
+## 🧰 Tools & Technologies
+
+**Testing:** Manual Testing · Functional Testing · Regression Testing · Smoke Testing · Checklists · Test Cases · Bug Reports
+
+**API:** Postman · REST APIs · GET · POST · PUT · DELETE · JSON · HTTP Status Codes
+
+**Tools:** Jira · GitHub · Chrome DevTools · Figma
+
+**Technical:** SQL · Python · Selenium fundamentals
+
+**Methodologies:** Agile · Scrum
+
+## ⭐ Featured Projects
 
 ### 1. Manual Testing — Login
 
-A practical login validation exercise including a documented test case, preconditions, test steps, expected result and execution status.
+Practical login validation exercise documenting preconditions, test steps, expected behavior and execution status.
 
-- [View Login Test Case](Test-Cases/login-test-cases.md)
+➡️ [View Test Case](Test-Cases/login-test-cases.md)
 
 ### 2. Bug Reporting — Login
 
-A documented defect report including summary, environment, reproduction steps, expected vs. actual result, severity, priority and status.
+Defect documentation including environment, reproduction steps, expected vs. actual result, severity, priority and evidence.
 
-- [View Login Bug Report](Bug-Reports/login-bug-report.md)
+➡️ [View Bug Report](Bug-Reports/login-bug-report.md)
 
-### 3. API Testing
+### 3. API Testing — Urban.Lunch
 
-API testing exercises developed during QA training using Postman and REST concepts. The work focuses on request/response validation, HTTP status codes, JSON data and positive/negative scenarios.
+QA training project focused on validating API behavior through positive and negative scenarios, request/response data, HTTP status codes and business rules, including time and cost calculations where applicable.
 
-- [Open API Testing section](API-Testing/)
-
-> Evidence and additional API documentation will be added as the project is finalized, so that every claim in the portfolio can be verified directly.
+➡️ [Open API Testing](API-Testing/)
 
 ### 4. Automation — Python + Selenium
 
-Training project focused on learning UI test automation with Python and Selenium. This project is presented as a learning project and is being expanded with additional scenarios and documentation.
+Learning project focused on building UI test automation fundamentals with Python and Selenium. The project will be expanded as additional scenarios and evidence are completed.
 
-- [Open Practice Projects](Practice-Projects/)
+➡️ [Open Practice Projects](Practice-Projects/)
 
-## QA Process
+## 🔍 My QA Approach
 
-For each project, I aim to document:
+For each project, I aim to follow a structured process:
 
-1. Context and objective
-2. Requirements or expected behavior
-3. Test strategy
-4. Test scenarios and cases
-5. Execution and evidence
-6. Defects found
-7. Results and conclusions
-8. Areas for improvement
+1. Understand the requirements and expected behavior.
+2. Identify risks and relevant test scenarios.
+3. Design test cases and checklists.
+4. Execute tests and document results.
+5. Report defects with clear reproduction steps.
+6. Attach evidence when available.
+7. Analyze results and communicate findings.
+8. Identify possible improvements.
 
-## Repository Structure
+## 📁 Repository Structure
 
 ```text
 QA-Projects
@@ -82,13 +87,13 @@ QA-Projects
 └── Practice-Projects
 ```
 
-## Professional Direction
+## 📌 Portfolio
 
-**Target roles:** Junior QA Engineer | QA Analyst Jr. | Software Tester Jr.
+For the complete overview of my projects, skills and professional direction:
 
-I am especially interested in manual testing, API testing and gradually expanding into test automation.
+➡️ **[Open my QA Portfolio](Documentation/PORTFOLIO.md)**
 
-## Connect
+## 📫 Contact
 
-- LinkedIn: https://www.linkedin.com/in/alexis-alvarez-ruiz-14384a229/
-- GitHub: https://github.com/alexisalvarez-qa
+- **LinkedIn:** [Alexis Alvarez Ruiz](https://www.linkedin.com/in/alexis-alvarez-ruiz-14384a229/)
+- **GitHub:** [alexisalvarez-qa](https://github.com/alexisalvarez-qa)
