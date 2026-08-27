@@ -2,11 +2,11 @@
 
 ## Overview
 
-I am a professional in Administration transitioning into Software Quality Assurance, with practical QA training through TripleTen. My background in administration strengthens my analytical thinking, organization, documentation, process orientation, and attention to detail.
+Soy un profesional de la administración que se está especializando en aseguramiento de la calidad del software, con formación práctica en QA a través de TripleTen. Mi experiencia en administración fortalece mi pensamiento analítico, mi capacidad de organización, mi habilidad para documentar, mi orientación a procesos y mi atención al detalle.
 
-I am currently developing practical skills in **Manual Testing, API Testing, and test automation fundamentals**, with the goal of starting my career as a **Junior QA Engineer, QA Analyst Jr., or Software Tester Jr.**
+Actualmente estoy desarrollando habilidades prácticas en **pruebas manuales, pruebas de API y fundamentos de automatización de pruebas**, con el objetivo de comenzar mi carrera como **ingeniero de control de calidad junior, analista de control de calidad junior o probador de software junior**.
 
-This portfolio presents practical exercises and evidence from my QA training. My approach is focused on understanding expected behavior, designing test scenarios, validating results, documenting defects, and communicating findings clearly.
+Este portafolio presenta ejercicios prácticos y evidencias de mi formación en control de calidad. Mi enfoque se centra en comprender el comportamiento esperado, diseñar escenarios de prueba, validar los resultados, documentar los defectos y comunicar los hallazgos con claridad.
 
 ## Skills
 
@@ -41,44 +41,44 @@ This portfolio presents practical exercises and evidence from my QA training. My
 
 ### 1. Manual Testing — Login
 
-A practical login validation exercise with documented preconditions, test steps, expected result, execution status, and visual evidence.
+Un ejercicio práctico de validación de inicio de sesión con precondiciones documentadas, pasos de prueba, resultado esperado, estado de ejecución y evidencia visual.
 
 [View Login Test Case](../Test-Cases/login-test-cases.md)
 
 ### 2. Bug Reporting — Login
 
-A documented defect report containing environment, reproduction steps, expected vs. actual result, severity, priority, status, and screenshots.
+Un informe de defectos documentado que incluya el entorno, los pasos para reproducir el problema, el resultado esperado frente al resultado real, la gravedad, la prioridad, el estado y capturas de pantalla.
 
 [View Login Bug Report](../Bug-Reports/login-bug-report.md)
 
 ### 3. API Testing — Postman
 
-A practical API testing exercise using a POST endpoint. The current evidence covers status-code validation, response-body validation, JSON structure verification, and screenshots from the testing process.
+Un ejercicio práctico de prueba de API mediante un endpoint POST. La evidencia actual abarca la validación del código de estado, la validación del cuerpo de la respuesta, la verificación de la estructura JSON y capturas de pantalla del proceso de prueba.
 
 [View API Testing Project](../API-Testing/postman-api-testing.md)
 
 ### 4. Automation — Python + Selenium
 
-Automation is part of my current QA training. I am progressively expanding this area with practical exercises and reproducible evidence.
+La automatización forma parte de mi formación actual en control de calidad. Estoy ampliando progresivamente esta área con ejercicios prácticos y evidencia reproducible.
 
 **Status:** Learning / expanding.
 
 ## QA Process
 
-1. Understand requirements and expected behavior.
-2. Identify relevant risks and scenarios.
-3. Design test cases or checks.
-4. Execute tests.
-5. Record results and evidence.
-6. Report defects clearly when found.
-7. Analyze results and conclusions.
-8. Identify improvement opportunities.
+1. Comprender los requisitos y el comportamiento esperado.
+2. Identificar los riesgos y escenarios relevantes.
+3. Diseñar casos de prueba o verificaciones.
+4. Ejecutar las pruebas.
+5. Registrar los resultados y las evidencias.
+6. Informar claramente sobre los defectos encontrados.
+7. Analizar los resultados y las conclusiones.
+8. Identificar oportunidades de mejora.
 
 ## Professional Direction
 
 **Target roles:** Junior QA Engineer | QA Analyst Jr. | Software Tester Jr.
 
-My current focus is building a strong foundation in manual testing and API testing while progressively developing automation skills.
+Actualmente me centro en construir una base sólida en pruebas manuales y pruebas de API, al tiempo que desarrollo progresivamente mis habilidades de automatización.
 
 ## Connect
 
