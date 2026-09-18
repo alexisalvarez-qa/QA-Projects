@@ -1,14 +1,14 @@
 # Alexis Alvarez Ruiz — QA Engineer Jr. Portfolio
 
-**Junior QA Engineer | Software Testing | Manual Testing | API Testing**
+**Junior QA Engineer | Software Testing | Manual Testing | API Testing | Test Automation**
 
 [View my Portfolio](Documentation/PORTFOLIO.md) · [LinkedIn](https://www.linkedin.com/in/alexis-alvarez-ruiz-14384a229/) · [GitHub Profile](https://github.com/alexisalvarez-qa)
 
 ## 👋 Overview
 
-I am a professional in Administration transitioning into Software Quality Assurance, with practical QA training through TripleTen.
+I am a professional in Administration transitioning into Software Quality Assurance.
 
-My previous professional background in administration has strengthened my analytical thinking, organization, documentation, process orientation and attention to detail. I am now applying these transferable skills to software testing and quality assurance.
+My previous professional background has strengthened my analytical thinking, organization, documentation, process orientation and attention to detail. I am applying these transferable skills to software testing and quality assurance.
 
 I am currently preparing for opportunities as a **Junior QA Engineer, QA Analyst Jr. or Software Tester Jr.**
 
@@ -24,72 +24,49 @@ I am currently preparing for opportunities as a **Junior QA Engineer, QA Analyst
 - Python fundamentals
 - Test Automation fundamentals
 
-## 🧰 Tools & Technologies
+## ⭐ Independent QA Projects
 
-**Testing:** Manual Testing · Functional Testing · Regression Testing · Smoke Testing · Checklists · Test Cases · Bug Reports
+### 1. REST API Testing — JSONPlaceholder
 
-**API:** Postman · REST APIs · GET · POST · PUT · DELETE · JSON · HTTP Status Codes
+Independent API testing practice covering REST operations, status-code validation, JSON structure and positive/negative scenarios.
 
-**Tools:** Jira · GitHub · Chrome DevTools · Figma
+➡️ [Open API Testing Project](Independent-Projects/API-Testing-JSONPlaceholder/)
 
-**Technical:** SQL · Python · Selenium fundamentals
+### 2. E-commerce Manual QA Case Study
 
-**Methodologies:** Agile · Scrum
+Independent manual-testing case study covering login, products, cart, checkout, negative scenarios, boundary analysis and risk-based prioritization.
 
-## ⭐ Featured Projects
+➡️ [Open E-commerce QA Case Study](Independent-Projects/Ecommerce-Manual-QA-Case-Study/)
 
-### 1. Manual Testing — Login
+### 3. UI Automation — Python + Selenium
 
-Practical login validation exercise documenting preconditions, test steps, expected behavior and execution status.
+Independent automation practice covering element location, explicit waits, form interaction and assertions.
 
-➡️ [View Test Case](Test-Cases/login-test-cases.md)
-
-### 2. Bug Reporting — Login
-
-Defect documentation including environment, reproduction steps, expected vs. actual result, severity, priority and evidence.
-
-➡️ [View Bug Report](Bug-Reports/login-bug-report.md)
-
-### 3. API Testing — Urban.Lunch
-
-QA training project focused on validating API behavior through positive and negative scenarios, request/response data, HTTP status codes and business rules, including time and cost calculations where applicable.
-
-➡️ [Open API Testing](API-Testing/)
-
-### 4. Automation — Python + Selenium
-
-Learning project focused on building UI test automation fundamentals with Python and Selenium. The project will be expanded as additional scenarios and evidence are completed.
-
-➡️ [Open Practice Projects](Practice-Projects/)
+➡️ [Open Selenium Project](Independent-Projects/Selenium-Python-Login-Automation/)
 
 ## 🔍 My QA Approach
 
-For each project, I aim to follow a structured process:
-
-1. Understand the requirements and expected behavior.
-2. Identify risks and relevant test scenarios.
-3. Design test cases and checklists.
-4. Execute tests and document results.
-5. Report defects with clear reproduction steps.
-6. Attach evidence when available.
-7. Analyze results and communicate findings.
-8. Identify possible improvements.
+1. Understand requirements and expected behavior.
+2. Identify risks.
+3. Design scenarios and test cases.
+4. Execute and validate.
+5. Document results and evidence.
+6. Report defects clearly.
+7. Analyze results.
+8. Identify improvements.
 
 ## 📁 Repository Structure
 
-```text
-QA-Projects
-├── Test-Cases
-├── Bug-Reports
-├── API-Testing
-├── Documentation
-├── Screenshots
+QA-Projects  
+├── Independent-Projects  
+├── Test-Cases  
+├── Bug-Reports  
+├── API-Testing  
+├── Documentation  
+├── Screenshots  
 └── Practice-Projects
-```
 
 ## 📌 Portfolio
-
-For the complete overview of my projects, skills and professional direction:
 
 ➡️ **[Open my QA Portfolio](Documentation/PORTFOLIO.md)**
 
