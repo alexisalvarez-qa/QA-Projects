@@ -1,0 +1,8 @@
+{
+  "info": {"name": "Alexis Alvarez - Independent API QA", "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"},
+  "item": [
+    {"name":"GET existing post","request":{"method":"GET","url":"https://jsonplaceholder.typicode.com/posts/1"}},
+    {"name":"GET non-existing post","request":{"method":"GET","url":"https://jsonplaceholder.typicode.com/posts/99999"}},
+    {"name":"POST create post","request":{"method":"POST","header":[{"key":"Content-Type","value":"application/json"}],"body":{"mode":"raw","raw":"{\n  \"title\": \"QA test post\",\n  \"body\": \"Independent API testing project\",\n  \"userId\": 1\n}"},"url":"https://jsonplaceholder.typicode.com/posts"}}
+  ]
+}
