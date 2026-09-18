@@ -1,12 +1,12 @@
-# Alexis Alvarez Ruiz — Junior QA Engineer Portfolio
+# Alexis Alvarez Ruiz — QA Portfolio
 
 ## Overview
 
-Soy un profesional de la administración que se está especializando en aseguramiento de la calidad del software, con formación práctica en QA a través de TripleTen. Mi experiencia en administración fortalece mi pensamiento analítico, mi capacidad de organización, mi habilidad para documentar, mi orientación a procesos y mi atención al detalle.
+Soy profesional de la Administración en transición hacia Software Quality Assurance. Actualmente desarrollo competencias prácticas en pruebas manuales, pruebas de API y automatización con Python y Selenium.
 
-Actualmente estoy desarrollando habilidades prácticas en **pruebas manuales, pruebas de API y fundamentos de automatización de pruebas**, con el objetivo de comenzar mi carrera como **ingeniero de control de calidad junior, analista de control de calidad junior o probador de software junior**.
+Mi formación en Administración fortalece mi organización, análisis de procesos, documentación y atención al detalle. En QA aplico esas habilidades para entender el comportamiento esperado, identificar riesgos, diseñar pruebas, validar resultados y comunicar hallazgos con claridad.
 
-Este portafolio presenta ejercicios prácticos y evidencias de mi formación en control de calidad. Mi enfoque se centra en comprender el comportamiento esperado, diseñar escenarios de prueba, validar los resultados, documentar los defectos y comunicar los hallazgos con claridad.
+**Objetivo profesional:** Junior QA Engineer | QA Analyst Jr. | Software Tester Jr.
 
 ## Skills
 
@@ -16,11 +16,12 @@ Este portafolio presenta ejercicios prácticos y evidencias de mi formación en 
 - Regression Testing
 - Smoke Testing
 - Test Case Design
-- Checklists
+- Negative Testing
+- Boundary-Value Analysis
 - Bug Reporting
 - Requirements Analysis
 
-### API Testing
+### API
 - Postman
 - REST APIs
 - GET / POST / PUT / DELETE
@@ -28,57 +29,116 @@ Este portafolio presenta ejercicios prácticos y evidencias de mi formación en 
 - JSON validation
 - Positive and negative scenarios
 
-### Tools & Technical Foundations
-- Jira
-- GitHub
-- Chrome DevTools
-- SQL fundamentals
+### Automation & Tools
 - Python fundamentals
 - Selenium fundamentals
+- Jira
+- Git / GitHub
+- Chrome DevTools
+- SQL fundamentals
 - Agile / Scrum
 
-## Featured Projects
+# Independent Projects
 
-### 1. Manual Testing — Login
+Los siguientes proyectos fueron preparados como práctica independiente para construir evidencia de habilidades de QA. No se presentan como proyectos de bootcamp ni como experiencia profesional de producción.
 
-Un ejercicio práctico de validación de inicio de sesión con precondiciones documentadas, pasos de prueba, resultado esperado, estado de ejecución y evidencia visual.
+## 1. REST API Testing — JSONPlaceholder
 
-[View Login Test Case](../Test-Cases/login-test-cases.md)
+**Tipo:** API Testing / Test Design  
+**Herramientas:** Postman, REST, JSON, HTTP
 
-### 2. Bug Reporting — Login
+### Context
+Práctica independiente sobre una API pública de prueba.
 
-Un informe de defectos documentado que incluya el entorno, los pasos para reproducir el problema, el resultado esperado frente al resultado real, la gravedad, la prioridad, el estado y capturas de pantalla.
+### Objective
+Diseñar una estrategia pequeña y reproducible para validar operaciones REST, códigos HTTP, estructura JSON y escenarios positivos y negativos.
 
-[View Login Bug Report](../Bug-Reports/login-bug-report.md)
+### Coverage
+- GET de recurso existente
+- GET de recurso inexistente
+- POST de recurso
+- PUT de recurso
+- DELETE de recurso
+- Validación de status codes
+- Validación de estructura de respuesta
+- Escenarios positivos y negativos
 
-### 3. API Testing — Postman
+### Evidence
+[Open API Testing Project](../Independent-Projects/API-Testing-JSONPlaceholder/)
 
-Un ejercicio práctico de prueba de API mediante un endpoint POST. La evidencia actual abarca la validación del código de estado, la validación del cuerpo de la respuesta, la verificación de la estructura JSON y capturas de pantalla del proceso de prueba.
+Incluye casos de prueba y una colección de Postman.
 
-[View API Testing Project](../API-Testing/postman-api-testing.md)
+---
 
-### 4. Automation — Python + Selenium
+## 2. E-commerce Manual QA Case Study
 
-La automatización forma parte de mi formación actual en control de calidad. Estoy ampliando progresivamente esta área con ejercicios prácticos y evidencia reproducible.
+**Tipo:** Manual Testing / Test Design  
+**Herramientas:** Test Cases, Bug Reporting, Chrome DevTools
 
-**Status:** Learning / expanding.
+### Context
+Caso de estudio independiente basado en un entorno de demostración de e-commerce.
 
-## QA Process
+### Objective
+Diseñar una estrategia de pruebas para el flujo de usuario desde el login hasta la confirmación de una compra.
 
-1. Comprender los requisitos y el comportamiento esperado.
-2. Identificar los riesgos y escenarios relevantes.
-3. Diseñar casos de prueba o verificaciones.
-4. Ejecutar las pruebas.
-5. Registrar los resultados y las evidencias.
-6. Informar claramente sobre los defectos encontrados.
-7. Analizar los resultados y las conclusiones.
+### Coverage
+- Login
+- Productos
+- Carrito
+- Checkout
+- Datos obligatorios
+- Escenarios negativos
+- Boundary-value analysis
+- Smoke testing
+- Regression-oriented testing
+- Risk-based prioritization
+
+### Evidence
+[Open E-commerce QA Case Study](../Independent-Projects/Ecommerce-Manual-QA-Case-Study/)
+
+Incluye plan de pruebas, casos de prueba y plantilla de reporte de defectos.
+
+---
+
+## 3. UI Automation — Python + Selenium
+
+**Tipo:** Test Automation  
+**Herramientas:** Python, Selenium WebDriver
+
+### Context
+Práctica independiente para convertir un escenario estable de login en una prueba automatizada reproducible.
+
+### Objective
+Demostrar fundamentos de automatización UI: localización de elementos, interacción con formularios, esperas explícitas y assertions.
+
+### Scenario
+1. Abrir la página de login.
+2. Introducir credenciales válidas.
+3. Enviar el formulario.
+4. Validar el estado de autenticación.
+5. Cerrar el navegador.
+
+### Evidence
+[Open Selenium Automation Project](../Independent-Projects/Selenium-Python-Login-Automation/)
+
+Incluye código Python y requirements.txt.
+
+## QA Approach
+
+1. Comprender requisitos y comportamiento esperado.
+2. Identificar riesgos.
+3. Diseñar escenarios y casos de prueba.
+4. Ejecutar y validar.
+5. Documentar resultados y evidencia.
+6. Reportar defectos de forma reproducible.
+7. Analizar resultados.
 8. Identificar oportunidades de mejora.
 
 ## Professional Direction
 
-**Target roles:** Junior QA Engineer | QA Analyst Jr. | Software Tester Jr.
+Busco oportunidades como **Junior QA Engineer, QA Analyst Jr. o Software Tester Jr.**
 
-Actualmente me centro en construir una base sólida en pruebas manuales y pruebas de API, al tiempo que desarrollo progresivamente mis habilidades de automatización.
+Mi prioridad actual es consolidar una base sólida en pruebas manuales y API Testing mientras continúo desarrollando automatización.
 
 ## Connect
 
