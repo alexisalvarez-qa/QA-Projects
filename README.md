@@ -1,61 +1,61 @@
-# Alexis Alvarez Ruiz — QA Engineer Jr. Portfolio
+# Alexis Alvarez Ruiz — Portafolio de QA
 
-**Junior QA Engineer | Software Testing | Manual Testing | API Testing | Test Automation**
+**QA Engineer Jr. | Pruebas de Software | Pruebas Manuales | Pruebas de API | Automatización**
 
-[View my Portfolio](Documentation/PORTFOLIO.md) · [LinkedIn](https://www.linkedin.com/in/alexis-alvarez-ruiz-14384a229/) · [GitHub Profile](https://github.com/alexisalvarez-qa)
+[Ver mi Portafolio](Documentation/PORTFOLIO.md) · [LinkedIn](https://www.linkedin.com/in/alexis-alvarez-ruiz-14384a229/) · [Perfil de GitHub](https://github.com/alexisalvarez-qa)
 
-## 👋 Overview
+## 👋 Sobre mí
 
-I am a professional in Administration transitioning into Software Quality Assurance.
+Soy profesional de la Administración en transición hacia Software Quality Assurance.
 
-My previous professional background has strengthened my analytical thinking, organization, documentation, process orientation and attention to detail. I am applying these transferable skills to software testing and quality assurance.
+Mi formación profesional ha fortalecido mi capacidad de análisis, organización, documentación, orientación a procesos y atención al detalle. Actualmente aplico estas habilidades al área de pruebas de software y aseguramiento de calidad.
 
-I am currently preparing for opportunities as a **Junior QA Engineer, QA Analyst Jr. or Software Tester Jr.**
+Busco oportunidades como **QA Engineer Jr., QA Analyst Jr. o Software Tester Jr.**
 
-## 🎯 Professional Focus
+## 🎯 Enfoque profesional
 
-- Manual Software Testing
-- Functional Testing
-- Test Case Design
-- Bug Reporting
-- API Testing
-- Test Documentation
-- SQL fundamentals
-- Python fundamentals
-- Test Automation fundamentals
+- Pruebas manuales
+- Pruebas funcionales
+- Diseño de casos de prueba
+- Reporte de defectos
+- Pruebas de API
+- Documentación de pruebas
+- Fundamentos de SQL
+- Fundamentos de Python
+- Fundamentos de automatización
 
-## ⭐ Independent QA Projects
+## ⭐ Proyectos independientes de QA
 
-### 1. REST API Testing — JSONPlaceholder
+### 1. Pruebas de API REST — JSONPlaceholder
 
-Independent API testing practice covering REST operations, status-code validation, JSON structure and positive/negative scenarios.
+Proyecto independiente de práctica de pruebas de API que cubre operaciones REST, validación de códigos de estado, estructura JSON y escenarios positivos y negativos.
 
-➡️ [Open API Testing Project](Independent-Projects/API-Testing-JSONPlaceholder/)
+➡️ [Ver proyecto de pruebas de API](Independent-Projects/API-Testing-JSONPlaceholder/)
 
-### 2. E-commerce Manual QA Case Study
+### 2. Caso de estudio de QA manual — E-commerce
 
-Independent manual-testing case study covering login, products, cart, checkout, negative scenarios, boundary analysis and risk-based prioritization.
+Caso de estudio independiente que cubre login, productos, carrito, checkout, escenarios negativos, análisis de límites y priorización basada en riesgos.
 
-➡️ [Open E-commerce QA Case Study](Independent-Projects/Ecommerce-Manual-QA-Case-Study/)
+➡️ [Ver caso de estudio de QA](Independent-Projects/Ecommerce-Manual-QA-Case-Study/)
 
-### 3. UI Automation — Python + Selenium
+### 3. Automatización UI — Python + Selenium
 
-Independent automation practice covering element location, explicit waits, form interaction and assertions.
+Proyecto independiente de práctica de automatización que cubre localización de elementos, esperas explícitas, interacción con formularios y assertions.
 
-➡️ [Open Selenium Project](Independent-Projects/Selenium-Python-Login-Automation/)
+➡️ [Ver proyecto de automatización](Independent-Projects/Selenium-Python-Login-Automation/)
 
-## 🔍 My QA Approach
+## 🔍 Mi enfoque de QA
 
-1. Understand requirements and expected behavior.
-2. Identify risks.
-3. Design scenarios and test cases.
-4. Execute and validate.
-5. Document results and evidence.
-6. Report defects clearly.
-7. Analyze results.
-8. Identify improvements.
+1. Comprender los requisitos y el comportamiento esperado.
+2. Identificar riesgos.
+3. Diseñar escenarios y casos de prueba.
+4. Ejecutar y validar.
+5. Documentar resultados y evidencias.
+6. Reportar defectos de forma clara y reproducible.
+7. Analizar resultados.
+8. Identificar oportunidades de mejora.
 
-## 📁 Repository Structure
+## 📁 Estructura del repositorio
 
 QA-Projects  
 ├── Independent-Projects  
@@ -66,11 +66,11 @@ QA-Projects
 ├── Screenshots  
 └── Practice-Projects
 
-## 📌 Portfolio
+## 📌 Portafolio
 
-➡️ **[Open my QA Portfolio](Documentation/PORTFOLIO.md)**
+➡️ **[Abrir mi portafolio de QA](Documentation/PORTFOLIO.md)**
 
-## 📫 Contact
+## 📫 Contacto
 
 - **LinkedIn:** [Alexis Alvarez Ruiz](https://www.linkedin.com/in/alexis-alvarez-ruiz-14384a229/)
 - **GitHub:** [alexisalvarez-qa](https://github.com/alexisalvarez-qa)
