@@ -1,27 +1,32 @@
-# Independent Project 3 — UI Automation with Python + Selenium
+# Proyecto independiente 3 — Automatización UI con Python + Selenium
 
-## Context
-Independent automation practice project focused on turning a stable login scenario into a reproducible automated test.
+## Contexto
+Proyecto independiente de práctica de automatización enfocado en convertir un escenario estable de inicio de sesión en una prueba reproducible.
 
-## Objective
-Demonstrate UI automation foundations: locating elements, entering data, submitting a form and validating the resulting page state.
+## Objetivo
+Demostrar fundamentos de automatización UI: localización de elementos, ingreso de datos, envío de formulario y validación del estado resultante.
 
-## Scenario
-1. Open the login page.
-2. Enter valid credentials.
-3. Submit the form.
-4. Verify successful authentication.
-5. Close the browser.
+## Escenario
+1. Abrir la página de inicio de sesión.
+2. Introducir credenciales válidas.
+3. Enviar el formulario.
+4. Verificar la autenticación exitosa.
+5. Cerrar el navegador.
 
-## Automation Concepts
-Python, Selenium WebDriver, explicit waits, assertions, reusable test structure and clear test naming.
+## Conceptos de automatización
+- Python
+- Selenium WebDriver
+- Esperas explícitas
+- Assertions
+- Estructura reutilizable de pruebas
+- Nombres claros para las pruebas
 
-## Deliverables
-- test_login.py
-- requirements.txt
+## Entregables
+- `test_login.py`
+- `requirements.txt`
 
-## Manual vs Automation
-Automation is useful for repeatable regression checks. Exploratory testing, usability observations and scenarios requiring frequent human judgment remain candidates for manual testing.
+## Manual vs. automatización
+La automatización es útil para comprobaciones repetibles de regresión. Las pruebas exploratorias, observaciones de usabilidad y escenarios que requieren juicio humano frecuente siguen siendo candidatos para pruebas manuales.
 
-## Important
-This is an independent practice project and is not presented as a TripleTen bootcamp project.
+## Importante
+Este es un proyecto independiente de práctica y no se presenta como un proyecto del bootcamp.
