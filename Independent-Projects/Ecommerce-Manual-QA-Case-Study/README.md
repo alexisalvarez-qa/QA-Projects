@@ -1,30 +1,35 @@
-# Independent Project 2 — E-commerce Manual QA Case Study
+# Proyecto independiente 2 — Caso de estudio de QA manual para e-commerce
 
-## Context
-Independent manual-testing case study based on the public SauceDemo e-commerce demo application.
+## Contexto
+Caso de estudio independiente de pruebas manuales basado en una aplicación pública de demostración de comercio electrónico.
 
-## Objective
-Design and document a realistic QA approach for a basic shopping flow, from authentication through checkout.
+## Objetivo
+Diseñar y documentar una estrategia de QA para un flujo básico de compra, desde la autenticación hasta el checkout.
 
-## Scope
-- Login
-- Product listing and selection
-- Add/remove product from cart
-- Cart validation
-- Checkout information
-- Order completion
-- Negative and boundary scenarios
+## Alcance
+- Inicio de sesión
+- Listado y selección de productos
+- Agregar y eliminar productos del carrito
+- Validación del carrito
+- Información de checkout
+- Finalización del pedido
+- Escenarios negativos y de límites
 
-## Test Techniques
-Functional testing, negative testing, boundary-value analysis, smoke testing, regression-oriented checks and risk-based prioritization.
+## Técnicas de prueba
+- Pruebas funcionales
+- Pruebas negativas
+- Análisis de valores límite
+- Pruebas smoke
+- Pruebas orientadas a regresión
+- Priorización basada en riesgos
 
-## User Flow
-Login → Product selection → Cart → Checkout information → Order confirmation
+## Flujo principal
+Inicio de sesión → Selección de producto → Carrito → Información de checkout → Confirmación del pedido
 
-## Deliverables
-- test-plan.md
-- test-cases.md
-- bug-report-template.md
+## Entregables
+- `test-plan.md`
+- `test-cases.md`
+- `bug-report-template.md`
 
-## Important
-This is an independent practice case study and is not presented as a TripleTen bootcamp project.
+## Importante
+Este es un caso de estudio independiente de práctica y no se presenta como un proyecto del bootcamp.
