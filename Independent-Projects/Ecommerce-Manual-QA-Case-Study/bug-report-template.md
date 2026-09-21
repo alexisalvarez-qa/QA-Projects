@@ -1,30 +1,30 @@
-# Bug Report Template
+# Plantilla de reporte de defectos
 
-## Title
-Concise defect summary
+## Título
+Resumen conciso del defecto
 
-## Environment
-Application / Browser / Operating system / Date
+## Entorno
+Aplicación / Navegador / Sistema operativo / Fecha
 
-## Preconditions
-Required setup
+## Precondiciones
+Configuración necesaria
 
-## Steps to Reproduce
-1. 
-2. 
-3. 
+## Pasos para reproducir
+1.
+2.
+3.
 
-## Expected Result
-What should happen
+## Resultado esperado
+Qué debería suceder
 
-## Actual Result
-What actually happened
+## Resultado actual
+Qué sucede realmente
 
-## Severity / Priority
-Critical, High, Medium or Low / P0, P1, P2 or P3
+## Severidad / Prioridad
+Crítica, Alta, Media o Baja / P0, P1, P2 o P3
 
-## Evidence
-Screenshot, recording or other supporting evidence
+## Evidencia
+Captura de pantalla, grabación u otra evidencia
 
-## Notes
-Additional context
+## Notas
+Contexto adicional
