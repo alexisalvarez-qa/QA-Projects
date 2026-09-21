@@ -1,26 +1,26 @@
-# Test Plan — E-commerce Checkout
+# Plan de pruebas — Checkout de e-commerce
 
-## Objective
-Validate the core shopping and checkout flow of a demo e-commerce application.
+## Objetivo
+Validar el flujo principal de compra y checkout de una aplicación de demostración de comercio electrónico.
 
-## In Scope
-Authentication, product browsing, cart management, checkout form validation and order completion.
+## Dentro del alcance
+Autenticación, navegación de productos, gestión del carrito, validación del formulario de checkout y finalización del pedido.
 
-## Out of Scope
-Payment-provider integration, production infrastructure, load testing and real transactions.
+## Fuera del alcance
+Integración con proveedores de pago, infraestructura de producción, pruebas de carga y transacciones reales.
 
-## Priority
-P0: Login and checkout availability
-P1: Cart and product-selection behavior
-P2: Secondary validation and usability observations
+## Prioridad
+P0: Disponibilidad del inicio de sesión y checkout  
+P1: Carrito y selección de productos  
+P2: Validaciones secundarias y observaciones de usabilidad
 
-## Risks
-- User cannot authenticate
-- Product cannot be added or removed
-- Cart items do not match selections
-- Checkout accepts invalid required data
-- Order cannot be completed
-- Invalid input produces unclear feedback
+## Riesgos
+- El usuario no puede iniciar sesión.
+- No se puede agregar o eliminar un producto.
+- Los productos del carrito no coinciden con la selección.
+- El checkout acepta datos obligatorios inválidos.
+- El pedido no puede completarse.
+- Los datos inválidos generan mensajes poco claros.
 
-## Exit Evidence
-Executed test cases, defect reports when applicable, screenshots for important findings and a concise test summary.
+## Evidencia de salida
+Casos de prueba ejecutados, reportes de defectos cuando corresponda, capturas de pantalla de hallazgos importantes y un resumen de pruebas.
