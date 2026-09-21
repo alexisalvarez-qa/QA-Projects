@@ -1,26 +1,30 @@
-# Independent Project 1 — REST API Testing with JSONPlaceholder
+# Proyecto independiente 1 — Pruebas de API REST con JSONPlaceholder
 
-## Context
-Independent QA practice project created to demonstrate API testing outside a bootcamp assignment.
+## Contexto
+Proyecto independiente de práctica de QA creado para demostrar pruebas de API fuera de una actividad del bootcamp.
 
-## Objective
-Validate common REST API behaviors using a public test API and document a small, reproducible QA strategy.
+## Objetivo
+Validar comportamientos comunes de una API REST y documentar una estrategia de pruebas pequeña y reproducible.
 
-## Scope
+## Alcance
 - GET /posts/1
 - POST /posts
 - PUT /posts/1
 - DELETE /posts/1
-- HTTP status code validation
-- JSON response structure
-- Positive and negative scenarios
+- Validación de códigos de estado HTTP
+- Validación de estructura de respuestas JSON
+- Escenarios positivos y negativos
 
-## Test Design
-Positive testing, negative testing, boundary-oriented checks, response/status validation and basic contract validation.
+## Diseño de pruebas
+- Pruebas positivas
+- Pruebas negativas
+- Comprobaciones orientadas a límites
+- Validación de respuestas y códigos de estado
+- Validación básica de estructura
 
-## Deliverables
-- test-cases.md
-- postman-collection.json
+## Entregables
+- `test-cases.md`
+- `postman-collection.json`
 
-## Important
-This is an independent practice project and is not presented as a professional production engagement or as a TripleTen bootcamp project.
+## Importante
+Este es un proyecto independiente de práctica. No se presenta como un proyecto profesional de producción ni como un proyecto del bootcamp.
